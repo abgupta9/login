@@ -1,0 +1,90 @@
+body{
+	background-image:url("../img/bg-img.jpg");
+	}
+	
+.contain{
+	
+	
+	border-radius:25px;
+	margin:100px 400px;
+	width:500px;
+	position:fixed;
+}
+
+.login{
+	margin:100px 100px;
+	max-width: 400px;
+	
+	}
+	
+.pri-head{
+	padding:10px;
+    margin-top:10px;
+	}
+	
+	
+.btn-login{
+	float:right;
+	}
+	
+.cart{
+	float:right;
+	width:20%;
+	border-left:1px solid #DADAE6;
+	min-height:400px;
+	}
+.cart-head{
+	//margin-left:10px;
+	}
+	
+.btn-order{
+	
+	}
+	
+	table{
+	float:left;
+	//border: 1px solid;
+	max-width:1050px;
+	}
+	td{
+	
+	}
+	tr{
+	
+	}
+	
+
+.caption{
+	text-align:center;
+	}
+	
+
+input[type=text]{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+}
+
+input[type=password]{
+	width: 250px;
+	height: 30px;
+	background: transparent;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: #fff;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+
+	

@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "CoffeeCup": {
+            "applicationId": "8qgaJz7P74rYAhP0fyCljp6QlrOqtCi2D2xdV0LG", 
+            "masterKey": "krJPJrxPzVMI6rOoUYEF5kIGQFdRbK251sHNDdae"
+        }, 
+        "_default": {
+            "link": "CoffeeCup"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
